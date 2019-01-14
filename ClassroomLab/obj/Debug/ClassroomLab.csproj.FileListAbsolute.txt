@@ -1,0 +1,7 @@
+C:\git\Unit 1\ClassroomLab\ClassroomLab\bin\Debug\ClassroomLab.exe.config
+C:\git\Unit 1\ClassroomLab\ClassroomLab\bin\Debug\ClassroomLab.exe
+C:\git\Unit 1\ClassroomLab\ClassroomLab\bin\Debug\ClassroomLab.pdb
+C:\git\Unit 1\ClassroomLab\ClassroomLab\obj\Debug\ClassroomLab.csprojAssemblyReference.cache
+C:\git\Unit 1\ClassroomLab\ClassroomLab\obj\Debug\ClassroomLab.csproj.CoreCompileInputs.cache
+C:\git\Unit 1\ClassroomLab\ClassroomLab\obj\Debug\ClassroomLab.exe
+C:\git\Unit 1\ClassroomLab\ClassroomLab\obj\Debug\ClassroomLab.pdb
